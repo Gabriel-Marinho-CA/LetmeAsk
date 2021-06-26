@@ -4,8 +4,12 @@
 
 ## 🛠 Technologies used
 
-⋅⋅⋅⋅* React.js
-⋅⋅⋅ React.js
+*React.js
+*rerere
+-React.js
+- rerer
+
+
 ****
 
 
