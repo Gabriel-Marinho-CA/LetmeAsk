@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Gabriel-Marinho-CA/LetmeAsk)
+
 # LetmeAsk
 |  Written in React.js with Firebase and styled-components
 
