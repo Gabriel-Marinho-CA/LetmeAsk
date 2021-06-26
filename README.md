@@ -10,8 +10,7 @@
 * Firebase
 * Typescript
 * styled-components
-* Jest
-* Next.js
+
 
 
 ****
