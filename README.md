@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App -- link do github para estilo read me https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
