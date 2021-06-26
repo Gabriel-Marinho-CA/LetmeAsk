@@ -2,7 +2,7 @@
 |  Written in React.js with Firebase and styled-components
 
 ## 🛠 Technologies used
-..* React.js
+⋅⋅* React.js
 ..* Firebase
 ..* Typescript
 ..* styled-components
