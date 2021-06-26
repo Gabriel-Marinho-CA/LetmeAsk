@@ -1,10 +1,12 @@
 # LetmeAsk
 |  Written in React.js with Firebase and styled-components
 
+****
+
 ## 🛠 Technologies used
 
-⋅⋅*React.js
-⋅⋅React.js
+⋅⋅* React.js
+⋅⋅ React.js
 ****
 
 
