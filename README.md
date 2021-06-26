@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-<img src = "src/.github/banner.png" />
+<img src = "src/.github/banner.png">
 
 
 
