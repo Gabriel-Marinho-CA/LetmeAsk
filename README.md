@@ -2,12 +2,8 @@
 |  Written in React.js with Firebase and styled-components
 
 ## 🛠 Technologies used
+
 ⋅⋅* React.js
-..* Firebase
-..* Typescript
-..* styled-components
-..* Jest
-..* Next.js
 
 # Layout
 <div id = "banner" >
