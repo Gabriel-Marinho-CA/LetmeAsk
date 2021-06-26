@@ -53,15 +53,20 @@ async function handleJoinRoom(event: FormEvent){
   history.push(`/rooms/${roomCode}`)
 }
 
-
-
   return (
+    <div id="estiloPG">
     <div id="page-auth">
+
+      <div id="apresentation">
+        <h1>Letmeask</h1>
+        <h2>Next Level Week Together</h2>
+        <p>Desktop</p>
+    </div>
       <aside>
-       
+               
          <img src ={illustrationImg} alt ="ilustração simbolizando perguntas e respostas"/>
-         <strong>Crie salas de Q&amp; A ao-vivo</strong>
-         <p>Tire dúvidas da sua audiência em tempo-real</p>
+         <strong>Toda pergunta tem uma resposta.</strong>
+         <p>Aprenda e compartilhe conhecimento com outras pessoas</p>
 
       </aside>
       <main>
@@ -94,6 +99,7 @@ async function handleJoinRoom(event: FormEvent){
       </main>
 
     </div>
+  </div>
   )
 }
 

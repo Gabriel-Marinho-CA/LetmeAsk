@@ -1,7 +1,44 @@
-#page-auth{
-  display: flex;
-  align-items: stretch;
-  height: 100vh;
+#estiloPG{
+  background: #f4f2f8;
+
+  #page-auth{
+    display: flex;
+    align-items: stretch;
+    height: 100vh;
+    margin: 0 auto;
+    
+    #apresentation{
+      color: #fff;
+      margin-bottom: 20px;
+      left:21.5%;
+      position:absolute;
+      padding-top: 20px;
+      
+      h1{
+        font-size: 6.5rem;
+        align-self:center;
+        display: flex;
+        justify-content:flex-end;
+
+      }
+      h2{
+        font-size: 2.4rem;
+        align-self:center;
+        display: flex;
+        justify-content:flex-end;
+        font-weight: 300;
+        padding-top: 10px;
+      }
+      p{
+        font-size: 2rem; 
+        align-self:center;
+        display: flex;
+        justify-content:flex-end;
+        padding-top: 10px;
+        padding-right: 2px;
+      }
+    }
+
 
   aside{
     flex: 7;
@@ -29,6 +66,8 @@
       margin-top: 16px;
       color: #f8f8f8;
     }
+
+    
 
   }
 
@@ -142,4 +181,5 @@
   }
 }
 
+}
 }
