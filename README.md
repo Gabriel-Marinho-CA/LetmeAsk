@@ -5,12 +5,12 @@
 ## 🛠 Technologies used
 
 
-*React.js
-*Firebase
-*Typescript
-*styled-components
-*Jest
-*Next.js
+* React.js
+* Firebase
+* Typescript
+* styled-components
+* Jest
+* Next.js
 
 
 ****
