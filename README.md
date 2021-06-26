@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-<img width = "470px" src = "LetmeAsk/.github/banner.PNG">
-
+<div id = "banner" >
+<img width = "470px" src = "https://github.com/Gabriel-Marinho-CA/LetmeAsk/blob/master/.github/banner.PNG">
+</div>
 
 
 ## Available Scripts
