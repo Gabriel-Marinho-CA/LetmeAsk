@@ -3,7 +3,11 @@
 
 ## 🛠 Technologies used
 
-⋅⋅* React.js
+⋅⋅*React.js
+⋅⋅React.js
+
+
+
 
 # Layout
 <div id = "banner" >
@@ -12,3 +16,8 @@
 
 
 
+..* Firebase
+..* Typescript
+..* styled-components
+..* Jest
+..* Next.js
