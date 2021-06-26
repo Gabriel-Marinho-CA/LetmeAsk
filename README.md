@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 <div id = "banner" >
-<img width = "470px" src = "https://github.com/Gabriel-Marinho-CA/LetmeAsk/blob/master/.github/banner.PNG">
+<img width = "900px" src = "https://github.com/Gabriel-Marinho-CA/LetmeAsk/blob/master/.github/banner.PNG">
 </div>
 
 
