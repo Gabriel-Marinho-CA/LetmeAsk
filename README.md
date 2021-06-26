@@ -4,10 +4,13 @@
 
 ## 🛠 Technologies used
 
+
 *React.js
-*rerere
--React.js
-- rerer
+*Firebase
+*Typescript
+* styled-components
+* Jest
+* Next.js
 
 
 ****
@@ -21,8 +24,3 @@
 
 
 
-..* Firebase
-..* Typescript
-..* styled-components
-..* Jest
-..* Next.js
