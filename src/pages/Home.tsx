@@ -58,7 +58,7 @@ async function handleJoinRoom(event: FormEvent){
     <div id="page-auth">
 
       <div id="apresentation">
-        <h1>Letmeask</h1>
+        <h1>LetmeAsk</h1>
         <h2>Next Level Week Together</h2>
         <p>Desktop </p>
     </div>
